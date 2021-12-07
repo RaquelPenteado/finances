@@ -17,7 +17,7 @@ Neste repositório contém uma página simples feita com HTML, CSS e JavaScript.
 
 
 - Solution URL: [https://github.com/RaquelPenteado/finanças](https://github.com/RaquelPenteado/finanças
-- Live Site URL: [https://finanças-pied.vercel.app](https://finanças-pied.vercel.app)
+- Live Site URL: [https://finances-kappa.vercel.app](https://finances-kappa.vercel.app)
 
 ## My process
 
